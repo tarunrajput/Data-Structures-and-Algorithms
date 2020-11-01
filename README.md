@@ -1,2 +1,2 @@
-# Data-Structures-and-Algorithms
-Data Structures and Algorithm Interview Problems
+<h2 align="center">Data Structures and Algorithms</h2>
+
